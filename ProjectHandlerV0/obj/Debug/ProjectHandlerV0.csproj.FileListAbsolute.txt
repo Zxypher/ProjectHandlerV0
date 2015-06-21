@@ -1,0 +1,11 @@
+C:\Users\Zxypher\Documents\Visual Studio 2013\Projects\ProjectHandlerV0\ProjectHandlerV0\obj\Debug\ProjectHandlerV0.mainMenu.resources
+C:\Users\Zxypher\Documents\Visual Studio 2013\Projects\ProjectHandlerV0\ProjectHandlerV0\obj\Debug\ProjectHandlerV0.tagsForm.resources
+C:\Users\Zxypher\Documents\Visual Studio 2013\Projects\ProjectHandlerV0\ProjectHandlerV0\obj\Debug\ProjectHandlerV0.Properties.Resources.resources
+C:\Users\Zxypher\Documents\Visual Studio 2013\Projects\ProjectHandlerV0\ProjectHandlerV0\obj\Debug\ProjectHandlerV0.csproj.GenerateResource.Cache
+C:\Users\Zxypher\Documents\Visual Studio 2013\Projects\ProjectHandlerV0\ProjectHandlerV0\bin\Debug\ProjectHandlerV0.exe.config
+C:\Users\Zxypher\Documents\Visual Studio 2013\Projects\ProjectHandlerV0\ProjectHandlerV0\bin\Debug\ProjectHandlerV0.exe
+C:\Users\Zxypher\Documents\Visual Studio 2013\Projects\ProjectHandlerV0\ProjectHandlerV0\bin\Debug\ProjectHandlerV0.pdb
+C:\Users\Zxypher\Documents\Visual Studio 2013\Projects\ProjectHandlerV0\ProjectHandlerV0\obj\Debug\ProjectHandlerV0.exe
+C:\Users\Zxypher\Documents\Visual Studio 2013\Projects\ProjectHandlerV0\ProjectHandlerV0\obj\Debug\ProjectHandlerV0.pdb
+C:\Users\Zxypher\Documents\Visual Studio 2013\Projects\ProjectHandlerV0\ProjectHandlerV0\obj\Debug\ProjectHandlerV0.Editor.resources
+C:\Users\Zxypher\documents\visual studio 2013\Projects\ProjectHandlerV0\ProjectHandlerV0\obj\Debug\ProjectHandlerV0.csprojResolveAssemblyReference.cache
